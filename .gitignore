@@ -1,0 +1,16 @@
+# Next.js
+web/.next/
+web/node_modules/
+web/.env.local
+web/.env*.local
+
+# Python
+ml-service/__pycache__/
+ml-service/*.pyc
+ml-service/.env
+ml-service/venv/
+ml-service/.venv/
+
+# General
+.DS_Store
+*.log
